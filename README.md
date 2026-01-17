@@ -16,12 +16,36 @@
 <div align="center" width="500%">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fugaz+One&pause=1000&color=F00000&background=B0E0E6&center=true&multiline=true&width=370&height=60&lines=Aruan+Macena;Engenharia+da+computa%C3%A7%C3%A3o+-+UNIVESP)](https://git.io/typing-svg)
-
 </div>
 
 
+<h1>📚Atualmente estudando(UNIVESP):</h1>
+<div><b>⚙️Engenharia de Software </div>
+<div>🗣️Protocolos de Comunicação IoT</div>
+<div>🧮Geometria Analítica e Álgebra Linear</div>
+<div>🤳Sistemas Embarcados</div>
+
+</br>
+
+<h1>📚Atualmente estudando(DIO):</h1>
+<div>
+♨️Santander Bootcamp 2025- 5ªed- Backend com Python  
+</div>
+
+<div></br>
+<h1>🤩Soft Skills</h1>
+
+🧘Tolerância a frustação</br>
+🔓Abertura ao novo</br>
+📅Organização</br>
+🫡Responsabilidade</br>
+🫂Empatia</br>
+🧐Curiosidade para aprender</br>
+🎯Assertividade</br>
+🤝Respeito</div>
+
 <div align="center" style="display: inline_block"><br>
-  <img width="40" alt="LG-PYTHON" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img width ="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img width ="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" />
 
@@ -51,8 +75,4 @@
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=aruanmacena&style=flat-square&color=B0E0E6" /></p> 
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aruanmacena/aruanmacena/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aruanmacena/aruanmacena/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aruanmacena/aruanmacena/output/github-contribution-grid-snake.svg">
-</picture>
+
