@@ -36,13 +36,10 @@
 <h1>🤩Soft Skills</h1>
 
 🧘Tolerância a frustação</br>
-🔓Abertura ao novo</br>
 📅Organização</br>
 🫡Responsabilidade</br>
 🫂Empatia</br>
 🧐Curiosidade para aprender</br>
-🎯Assertividade</br>
-🤝Respeito</div>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
