@@ -20,10 +20,10 @@
 
 
 <h1>📚Atualmente estudando(UNIVESP):</h1>
-<div><b>⚙️Engenharia de Software </div>
-<div>🗣️Protocolos de Comunicação IoT</div>
-<div>🧮Geometria Analítica e Álgebra Linear</div>
-<div>🤳Sistemas Embarcados</div>
+<div><b>⚙️Infraestrutura para Sistemas de Software </div>
+<div>🗣️Plataforma de Ingestão e Análise de Dados</div>
+<div>🧮Desenvolvimento WEB</div>
+<div>🤳Interface Humano-Computador</div>
 
 </br>
 
