@@ -29,7 +29,7 @@
 
 <h1>📚Atualmente estudando(DIO):</h1>
 <div>
-♨️Santander Bootcamp 2025- 5ªed- Backend com Python  
+Linux do Zero  
 </div>
 
 <div></br>
